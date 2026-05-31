@@ -20,7 +20,7 @@
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 1 | Reverse Linked List | 🟢 Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Video](https://www.youtube.com/watch?v=G0_I-ZF0S38) |
-| 2 | Middle of the Linked List | 🟢 Easy | [Link](https://leetcode.com/problems/middle-of-the-linked-list/) | Search NeetCode |
+| 2 | Middle of the Linked List | 🟢 Easy | [Link](https://leetcode.com/problems/middle-of-the-linked-list/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
 | 3 | Merge Two Sorted Lists | 🟢 Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Video](https://www.youtube.com/watch?v=XIdigk956u0) |
 | 4 | Linked List Cycle | 🟢 Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Video](https://www.youtube.com/watch?v=gBTe7lFR3BE) |
 | 5 | Remove Nth Node From End of List | 🟡 Medium | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Video](https://www.youtube.com/watch?v=XVuQxV2V46o) |

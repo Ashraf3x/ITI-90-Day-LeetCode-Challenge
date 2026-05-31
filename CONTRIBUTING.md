@@ -9,9 +9,9 @@ Welcome! This guide explains how to submit your solutions to the **ITI 90-Day Le
 ```
 Week-01/
 ├── README.md              ← problems list + links for this week
-├── TwoSum_Ahmed.cpp
-├── TwoSum_Sara.py
-├── FizzBuzz_Mohamed.java
+├── TwoSum_Ashraf.cpp
+├── TwoSum_Mamdouh.py
+├── FizzBuzz_Youssef.js
 └── ...
 ```
 
@@ -79,16 +79,15 @@ cd Week-01
 If your language is not listed, open an issue — we can add more extensions.
 
 **Examples:**
-- `ValidParentheses_Ahmed.cpp`
-- `DailyTemperatures_Sara.py`
-- `ReverseLinkedList_Omar.java`
-- `TwoSum_Mona.cs`
-- `SubarraySum_Karim.kt`
+- `ValidParentheses_Ashraf.cpp`
+- `DailyTemperatures_Mamdouh.py`
+- `ReverseLinkedList_Youssef.js`
+- `TwoSum_Kareem.cs`
 
 ### 4️⃣ Add the standard header
 
 ```cpp
-// Author: Ahmed Hassan
+// Author: Ahmed Ashraf
 // Problem: Valid Parentheses
 // Link: https://leetcode.com/problems/valid-parentheses/
 // Approach: Stack — push open brackets, pop on matching close

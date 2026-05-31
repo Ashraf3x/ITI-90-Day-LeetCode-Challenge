@@ -23,12 +23,12 @@
 | 2 | Gas Station | 🟡 Medium | [Link](https://leetcode.com/problems/gas-station/) | [Video](https://www.youtube.com/watch?v=lJwbPZGo05A) |
 | 3 | Partition Labels | 🟡 Medium | [Link](https://leetcode.com/problems/partition-labels/) | [Video](https://www.youtube.com/watch?v=B7m8UmZE-vw) |
 | 4 | Non-overlapping Intervals | 🟡 Medium | [Link](https://leetcode.com/problems/non-overlapping-intervals/) | [Video](https://www.youtube.com/watch?v=nONCGxwoKTE) |
-| 5 | Lemonade Change | 🟢 Easy | [Link](https://leetcode.com/problems/lemonade-change/) | Search NeetCode |
+| 5 | Lemonade Change | 🟢 Easy | [Link](https://leetcode.com/problems/lemonade-change/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
 | 6 | Minimum Number of Arrows to Burst Balloons | 🟡 Medium | [Link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Video](https://www.youtube.com/watch?v=acUWwJ9ROq0) |
 | 7 | Assign Cookies | 🟢 Easy | [Link](https://leetcode.com/problems/assign-cookies/) | [Video](https://www.youtube.com/watch?v=okP-eVYYvJE) |
 | 8 | Candy | 🔴 Hard | [Link](https://leetcode.com/problems/candy/) | [Video](https://www.youtube.com/watch?v=36pIMzSv-eM) |
 | 9 | Boats to Save People | 🟡 Medium | [Link](https://leetcode.com/problems/boats-to-save-people/) | [Video](https://www.youtube.com/watch?v=XtJInj6YnAg) |
-| 10 | Jump Game II | 🟡 Medium | [Link](https://leetcode.com/problems/jump-game-ii/) | Search NeetCode |
+| 10 | Jump Game II | 🟡 Medium | [Link](https://leetcode.com/problems/jump-game-ii/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
 
 ---
 

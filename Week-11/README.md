@@ -23,9 +23,9 @@
 | 2 | Missing Number | 🟢 Easy | [Link](https://leetcode.com/problems/missing-number/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
 | 3 | Counting Bits | 🟢 Easy | [Link](https://leetcode.com/problems/counting-bits/) | [Video](https://www.youtube.com/watch?v=RyBM56RIWrM) |
 | 4 | Number of 1 Bits | 🟢 Easy | [Link](https://leetcode.com/problems/number-of-1-bits/) | [Video](https://www.youtube.com/watch?v=5Km3utixwZs) |
-| 5 | Power of Four | 🟢 Easy | [Link](https://leetcode.com/problems/power-of-four/) | Search NeetCode |
+| 5 | Power of Four | 🟢 Easy | [Link](https://leetcode.com/problems/power-of-four/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64) |
 | 6 | Reverse Bits | 🟢 Easy | [Link](https://leetcode.com/problems/reverse-bits/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64) |
-| 7 | XOR Operation in an Array | 🟢 Easy | [Link](https://leetcode.com/problems/xor-operation-in-an-array/) | Search NeetCode |
+| 7 | XOR Operation in an Array | 🟢 Easy | [Link](https://leetcode.com/problems/xor-operation-in-an-array/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64) |
 | 8 | Sum of Two Integers | 🟡 Medium | [Link](https://leetcode.com/problems/sum-of-two-integers/) | [Video](https://www.youtube.com/watch?v=gVUrDV4tZfY) |
 | 9 | Hamming Distance | 🟢 Easy | [Link](https://leetcode.com/problems/hamming-distance/) | [Video](https://www.youtube.com/watch?v=oGUZmeNFSVA) |
 | 10 | Bitwise AND of Numbers Range | 🟡 Medium | [Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Video](https://www.youtube.com/watch?v=-qrpJykJJn0) |

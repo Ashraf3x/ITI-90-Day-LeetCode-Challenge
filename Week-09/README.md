@@ -20,13 +20,13 @@
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 1 | Fibonacci Number | 🟢 Easy | [Link](https://leetcode.com/problems/fibonacci-number/) | [Video](https://www.youtube.com/watch?v=On2BojjLGe8) |
-| 2 | Pow(x, n) | 🟡 Medium | [Link](https://leetcode.com/problems/powx-n/) | Search NeetCode |
+| 2 | Pow(x, n) | 🟡 Medium | [Link](https://leetcode.com/problems/powx-n/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
 | 3 | Subsets | 🟡 Medium | [Link](https://leetcode.com/problems/subsets/) | [Video](https://www.youtube.com/watch?v=REOHWfHRsgQ) |
 | 4 | Generate Parentheses | 🟡 Medium | [Link](https://leetcode.com/problems/generate-parentheses/) | [Video](https://www.youtube.com/watch?v=s9fokUqJ76A) |
 | 5 | Permutations | 🟡 Medium | [Link](https://leetcode.com/problems/permutations/) | [Video](https://www.youtube.com/watch?v=s7AvT7cGdSo) |
 | 6 | Subsets II | 🟡 Medium | [Link](https://leetcode.com/problems/subsets-ii/) | [Video](https://www.youtube.com/watch?v=Vn2v6ajA7U0) |
 | 7 | Combination Sum | 🟡 Medium | [Link](https://leetcode.com/problems/combination-sum/) | [Video](https://www.youtube.com/watch?v=GBKI9pFJPCI) |
-| 8 | Letter Combinations of a Phone Number | 🟡 Medium | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Search NeetCode |
+| 8 | Letter Combinations of a Phone Number | 🟡 Medium | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
 | 9 | Climbing Stairs | 🟢 Easy | [Link](https://leetcode.com/problems/climbing-stairs/) | [Video](https://www.youtube.com/watch?v=Y0lT9Fck7qI) |
 | 10 | Reverse Linked List (recursive) | 🟢 Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Video](https://www.youtube.com/watch?v=G0_I-ZF0S38) |
 

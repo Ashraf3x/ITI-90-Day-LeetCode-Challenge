@@ -24,11 +24,11 @@
 | 3 | Range Sum Query - Immutable | 🟢 Easy | [Link](https://leetcode.com/problems/range-sum-query-immutable/) | [Video](https://www.youtube.com/watch?v=1F5oJApKXeo) |
 | 4 | Find Pivot Index | 🟢 Easy | [Link](https://leetcode.com/problems/find-pivot-index/) | [Video](https://www.youtube.com/watch?v=u89i60lYx8U) |
 | 5 | Continuous Subarray Sum | 🟡 Medium | [Link](https://leetcode.com/problems/continuous-subarray-sum/) | [Video](https://www.youtube.com/watch?v=OKcrLfR-8m4) |
-| 6 | Matrix Block Sum | 🟡 Medium | [Link](https://leetcode.com/problems/matrix-block-sum/) | Search NeetCode |
+| 6 | Matrix Block Sum | 🟡 Medium | [Link](https://leetcode.com/problems/matrix-block-sum/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
 | 7 | Running Sum of 1d Array | 🟢 Easy | [Link](https://leetcode.com/problems/running-sum-of-1d-array/) | [Video](https://www.youtube.com/watch?v=2pfdwwrnKYQ) |
-| 8 | Minimum Value to Get Positive Step by Step Sum | 🟢 Easy | [Link](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | Search NeetCode |
-| 9 | Count of Range Sum | 🔴 Hard | [Link](https://leetcode.com/problems/count-of-range-sum/) | Search NeetCode |
-| 10 | Number of Subarrays with Bounded Maximum | 🟡 Medium | [Link](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Search NeetCode |
+| 8 | Minimum Value to Get Positive Step by Step Sum | 🟢 Easy | [Link](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
+| 9 | Count of Range Sum | 🔴 Hard | [Link](https://leetcode.com/problems/count-of-range-sum/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
+| 10 | Number of Subarrays with Bounded Maximum | 🟡 Medium | [Link](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
 
 ---
 

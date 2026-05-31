@@ -27,8 +27,8 @@
 | 6 | Word Break | 🟡 Medium | [Link](https://leetcode.com/problems/word-break/) | [Video](https://www.youtube.com/watch?v=Sx9NNgInc3A) |
 | 7 | All Paths From Source to Target | 🟡 Medium | [Link](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Video](https://www.youtube.com/watch?v=8ByIieDU9HA) |
 | 8 | Sudoku Solver | 🔴 Hard | [Link](https://leetcode.com/problems/sudoku-solver/) | [Video](https://www.youtube.com/watch?v=FWAIf_EVUKE) |
-| 9 | Permutations II | 🟡 Medium | [Link](https://leetcode.com/problems/permutations-ii/) | Search NeetCode |
-| 10 | Combination Sum III | 🟡 Medium | [Link](https://leetcode.com/problems/combination-sum-iii/) | Search NeetCode |
+| 9 | Permutations II | 🟡 Medium | [Link](https://leetcode.com/problems/permutations-ii/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64) |
+| 10 | Combination Sum III | 🟡 Medium | [Link](https://leetcode.com/problems/combination-sum-iii/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64) |
 
 ---
 
