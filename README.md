@@ -62,7 +62,7 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 
 ## 🏆 Leaderboard
 
-> Updated automatically every week! See [scripts/update_leaderboard.py](./scripts/update_leaderboard.py)
+> Updated automatically every week!
 
 <!-- LEADERBOARD_START -->
 
