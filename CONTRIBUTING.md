@@ -126,7 +126,7 @@ git push origin week-01-Ahmed
 
 Title format: `[Week-XX] ProblemName - YourName`
 
-Example: `[Week-01] Valid Parentheses - Ahmed Hassan`
+Example: `[Week-01] Valid Parentheses - Ahmed Ashraf`
 
 ---
 
