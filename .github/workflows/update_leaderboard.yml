@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'Week-**/**'
+      - 'Week_**/**'
     paths-ignore:
-      - 'Week-**/README.md'
+      - 'Week_**/README.md'
   workflow_dispatch:
 
 jobs:
@@ -28,8 +28,7 @@ jobs:
           python-version: '3.11'
 
       - name: Count solutions and update leaderboard
-        working-directory: scripts
-        run: python3 update_leaderboard.py
+        run: python3 scripts/update_leaderboard.py
 
       - name: Commit updated README
         uses: stefanzweifel/git-auto-commit-action@v4

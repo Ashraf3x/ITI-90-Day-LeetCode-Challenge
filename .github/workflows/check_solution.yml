@@ -4,9 +4,9 @@ on:
   pull_request:
     branches: [main]
     paths:
-      - 'Week-**/**'
+      - 'Week_**/**'
     paths-ignore:
-      - 'Week-**/README.md'
+      - 'Week_**/README.md'
 
 jobs:
   check-solution:
@@ -24,21 +24,20 @@ jobs:
         uses: tj-actions/changed-files@v40
         with:
           files: |
-            Week-**/**
+            Week_**/**
           files_ignore: |
-            Week-**/README.md
+            Week_**/README.md
 
       - name: Check file naming convention
         run: |
           echo "🔍 Checking file names..."
-          pattern='^[A-Za-z0-9]+_[A-Za-z0-9]+\.(c|cpp|cc|cxx|py|java|kt|kts|scala|groovy|js|mjs|jsx|ts|tsx|cs|fs|fsx|vb|go|rs|zig|nim|d|v|swift|m|mm|rb|php|lua|pl|pm|tcl|hs|ml|mli|clj|erl|ex|exs|dart|r|R|jl|pas|cr|coffee|f90|f95|adb)$'
+          pattern='^[A-Za-z0-9_]+_[A-Za-z0-9]+\.(c|cpp|cc|cxx|py|java|kt|kts|scala|groovy|js|mjs|jsx|ts|tsx|cs|fs|fsx|vb|go|rs|zig|nim|d|v|swift|m|mm|rb|php|lua|pl|pm|tcl|hs|ml|mli|clj|erl|ex|exs|dart|r|R|jl|pas|cr|coffee|f90|f95|adb)$'
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             filename=$(basename "$file")
             if ! echo "$filename" | grep -qE "$pattern"; then
               echo "❌ Invalid filename: $filename"
-              echo "   Expected format: ProblemName_YourName.ext"
-              echo "   Example: ValidParentheses_Ahmed.cpp"
-              echo "   See CONTRIBUTING.md for all supported extensions."
+              echo "   Expected format: [ProblemNo]_[ProblemName]_[YourName].ext"
+              echo "   Example: 01_TwoSum_Ahmed.cpp or Two_Sum_Farmawy.cs"
               exit 1
             fi
             echo "✅ Valid filename: $filename"
@@ -81,15 +80,4 @@ jobs:
                 rm -f /tmp/test_solution
                 ;;
             esac
-          done
-
-      - name: Summary
-        run: |
-          echo ""
-          echo "🎉 All checks passed!"
-          echo "Your solution is ready for review."
-          echo ""
-          echo "📊 Files checked:"
-          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            echo "  - $file"
           done
