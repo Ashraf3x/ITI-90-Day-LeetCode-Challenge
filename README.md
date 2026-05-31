@@ -135,8 +135,8 @@ This is where the real learning happens! 🧠
 
 ## 👥 Contributors
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YOUR_USERNAME/YOUR_REPO_NAME" />
+<a href="https://github.com/Ashraf3x/ITI-90-Day-LeetCode-Challenge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ashraf3x/ITI-90-Day-LeetCode-Challenge" />
 </a>
 
 ---
