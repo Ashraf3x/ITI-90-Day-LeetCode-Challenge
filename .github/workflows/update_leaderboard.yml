@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'Week_**/**'
+      - 'Week-**/**'
     paths-ignore:
-      - 'Week_**/README.md'
+      - 'Week-**/README.md'
   workflow_dispatch:
 
 jobs:

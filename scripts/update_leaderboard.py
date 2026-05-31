@@ -3,7 +3,7 @@ import re
 
 def main():
     user_counts = {}
-    week_folders = [d for d in os.listdir('.') if os.path.isdir(d) and d.startswith('Week_')]
+    week_folders = [d for d in os.listdir('.') if os.path.isdir(d) and d.startswith('Week-')]
     
     for folder in week_folders:
         for file in os.listdir(folder):
