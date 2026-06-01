@@ -18,18 +18,56 @@
 
 ## 📝 Problems This Week
 
+### 📅 Day 1
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
-| 1 | Valid Parentheses | 🟢 Easy | [Link](https://leetcode.com/problems/valid-parentheses/) | [Video](https://www.youtube.com/watch?v=WTzjTskDFMg) |
-| 2 | Min Stack | 🟡 Medium | [Link](https://leetcode.com/problems/min-stack/) | [Video](https://www.youtube.com/watch?v=qkLl7nAwDPo) |
-| 3 | Next Greater Element I | 🟢 Easy | [Link](https://leetcode.com/problems/next-greater-element-i/) | [Video](https://www.youtube.com/watch?v=sDAyOHGpCAs) |
-| 4 | Daily Temperatures | 🟡 Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Video](https://www.youtube.com/watch?v=cTBiBSnjO3c) |
-| 5 | Evaluate Reverse Polish Notation | 🟡 Medium | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Video](https://www.youtube.com/watch?v=OWtBzjS2oTw) |
-| 6 | Implement Queue using Stacks | 🟢 Easy | [Link](https://leetcode.com/problems/implement-queue-using-stacks/) | [Video](https://www.youtube.com/watch?v=r6En0U0bX2g) |
-| 7 | Baseball Game | 🟢 Easy | [Link](https://leetcode.com/problems/baseball-game/) | [Video](https://www.youtube.com/watch?v=wfFN3ZeO7hs) |
-| 8 | Implement Stack using Queues | 🟢 Easy | [Link](https://leetcode.com/problems/implement-stack-using-queues/) | [Video](https://www.youtube.com/watch?v=wfFN3ZeO7hs) |
-| 9 | Backspace String Compare | 🟢 Easy | [Link](https://leetcode.com/problems/backspace-string-compare/) | [Video](https://www.youtube.com/watch?v=8QXGPglOehg) |
-| 10 | Remove All Adjacent Duplicates In String | 🟢 Easy | [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Video](https://www.youtube.com/watch?v=DCp66P1Trtw) |
+| 1 | Baseball Game | 🟢 Easy | [Link](https://leetcode.com/problems/baseball-game/) | [Video](https://www.youtube.com/watch?v=wfFN3ZeO7hs) |
+| 2 | Backspace String Compare | 🟢 Easy | [Link](https://leetcode.com/problems/backspace-string-compare/) | [Video](https://www.youtube.com/watch?v=8QXGPglOehg) |
+
+---
+
+### 📅 Day 2
+| # | Problem | Difficulty | LeetCode | NeetCode |
+|---|---------|------------|----------|----------|
+| 3 | Valid Parentheses | 🟢 Easy | [Link](https://leetcode.com/problems/valid-parentheses/) | [Video](https://www.youtube.com/watch?v=WTzjTskDFMg) |
+| 4 | Remove All Adjacent Duplicates In String | 🟢 Easy | [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Video](https://www.youtube.com/watch?v=DCp66P1Trtw) |
+
+---
+
+### 📅 Day 3 
+| # | Problem | Difficulty | LeetCode | NeetCode |
+|---|---------|------------|----------|----------|
+| 5 | Implement Queue using Stacks | 🟢 Easy | [Link](https://leetcode.com/problems/implement-queue-using-stacks/) | [Video](https://www.youtube.com/watch?v=r6En0U0bX2g) |
+| 6 | Implement Stack using Queues | 🟢 Easy | [Link](https://leetcode.com/problems/implement-stack-using-queues/) | [Video](https://www.youtube.com/watch?v=wfFN3ZeO7hs) |
+
+---
+
+### 📅 Day 4 
+| # | Problem | Difficulty | LeetCode | NeetCode |
+|---|---------|------------|----------|----------|
+| 7 | Min Stack | 🟡 Medium | [Link](https://leetcode.com/problems/min-stack/) | [Video](https://www.youtube.com/watch?v=qkLl7nAwDPo) |
+| 8 | Evaluate Reverse Polish Notation | 🟡 Medium | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Video](https://www.youtube.com/watch?v=OWtBzjS2oTw) |
+
+---
+
+### 📅 Day 5 
+| # | Problem | Difficulty | LeetCode | NeetCode |
+|---|---------|------------|----------|----------|
+| 9 | Next Greater Element I | 🟢 Easy | [Link](https://leetcode.com/problems/next-greater-element-i/) | [Video](https://www.youtube.com/watch?v=sDAyOHGpCAs) |
+
+---
+
+### 📅 Day 6 
+| # | Problem | Difficulty | LeetCode | NeetCode |
+|---|---------|------------|----------|----------|
+| 10 | Daily Temperatures | 🟡 Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Video](https://www.youtube.com/watch?v=cTBiBSnjO3c) |
+
+---
+
+### 🏁 Day 7
+| Task                                                  |
+|-------------------------------------------------------|
+| Practice Session                                      |
 
 ---
 
