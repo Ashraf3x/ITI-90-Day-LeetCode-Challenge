@@ -135,9 +135,22 @@ This is where the real learning happens! 🧠
 
 ## 👥 Contributors
 
-<a href="https://github.com/Ashraf3x/ITI-90-Day-LeetCode-Challenge/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ashraf3x/ITI-90-Day-LeetCode-Challenge&v=2" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ashraf3x">
+        <img src="https://github.com/Ashraf3x.png?size=100" width="100px;" alt="Ahmed Ashraf"/><br />
+        <sub><b>Ashraf3x</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ahmedmamdouh32">
+        <img src="https://github.com/ahmedmamdouh32.png?size=100" width="100px;" alt="Ahmed Mamdouh"/><br />
+        <sub><b>ahmedmamdouh32</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
