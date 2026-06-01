@@ -141,14 +141,26 @@ This is where the real learning happens! 🧠
   <tr>
     <td align="center">
       <a href="https://github.com/Ashraf3x">
-        <img src="https://github.com/Ashraf3x.png?size=100" width="100px;" alt="Ahmed Ashraf"/><br />
+        <img src="https://github.com/Ashraf3x.png?size=85" width="85" height="85" style="border-radius: 50%;" alt="Ashraf3x"/><br />
         <sub><b>Ashraf3x</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/ahmedmamdouh32">
-        <img src="https://github.com/ahmedmamdouh32.png?size=100" width="100px;" alt="Ahmed Mamdouh"/><br />
+        <img src="https://github.com/ahmedmamdouh32.png?size=85" width="85" height="85" style="border-radius: 50%;" alt="ahmedmamdouh32"/><br />
         <sub><b>ahmedmamdouh32</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Assemom">
+        <img src="https://github.com/Assemom.png?size=85" width="85" height="85" style="border-radius: 50%;" alt="Assemom"/><br />
+        <sub><b>Assemom</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/muhmedsaeed">
+        <img src="https://github.com/muhmedsaeed.png?size=85" width="85" height="85" style="border-radius: 50%;" alt="muhmedsaeed"/><br />
+        <sub><b>muhmedsaeed</b></sub>
       </a>
     </td>
   </tr>
