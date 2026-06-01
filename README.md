@@ -100,7 +100,6 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 // Author: <Your Name>
 // Problem: <Problem Name>
 // Link: <LeetCode URL>
-// Approach: <one line summary>
 // Time: O(??) | Space: O(??)
 ```
 5. Open a **Pull Request** with title: `[Week-XX] Problem Name - YourName`
