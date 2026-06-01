@@ -108,7 +108,6 @@ If your language is not listed, open an issue — we can add more extensions.
 // Author: Ashraf
 // Problem: Remove All Adjacent Duplicates In String
 // Link: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
-// Approach: Stack — cancel adjacent pairs
 // Time: O(n) | Space: O(n)
 
 class Solution {
