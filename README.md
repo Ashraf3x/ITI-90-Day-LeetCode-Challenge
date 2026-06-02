@@ -73,9 +73,9 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 | 3 | **Ashraf** | 4 | 🥉 |
 | 4 | **Assem** | 4 | 🔥 |
 | 5 | **Hend** | 4 | 🔥 |
-| 6 | **Mamdouh** | 3 | 🔥 |
-| 7 | **Youssef** | 2 | 🔥 |
-| 8 | **Mahmoudenany** | 2 | 🔥 |
+| 6 | **Mahmoudenany** | 3 | 🔥 |
+| 7 | **Mamdouh** | 3 | 🔥 |
+| 8 | **Youssef** | 2 | 🔥 |
 | 9 | **Kareem** | 1 | 🔥 |
 
 <!-- LEADERBOARD_END -->
