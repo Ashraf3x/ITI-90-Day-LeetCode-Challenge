@@ -185,6 +185,12 @@ This is where the real learning happens! 🧠
         <sub><b>Kareem Mohamed</b></sub>
       </a>
     </td>
+         <td align="center">
+      <a href="https://github.com/ahmedshalaby03">
+        <img src="https://github.com/ahmedshalaby03.png?size=85" width="85" height="85" style="border-radius: 50%;" alt="ahmedshalaby03"/><br />
+        <sub><b>Ahmed Shalaby</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
