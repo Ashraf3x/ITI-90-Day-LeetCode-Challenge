@@ -9,103 +9,37 @@ using namespace std;
 class Solution
 {
 public:
-    stack<string> numbers;
-    stack<string> operands;
-    int number1 = 0;
-    int number2 = 0;
-    int result = 0;
-    int count = 0;
-    string supop;
-    int evalRPN(vector<string> &tokens)
+    int evalRPN(vector<string>& tokens)
     {
-        if (tokens.size() == 1)
+        stack<int> st;
+
+        for (string token : tokens)
         {
-            return stoi(tokens[0]);
-        }
-        for (int i = 0; i < tokens.size(); i++)
-        {
-            if (!(tokens[i] == "+" || tokens[i] == "*" || tokens[i] == "/" || tokens[i] == "-"))
+            if (token == "+" || token == "-" ||
+                token == "*" || token == "/")
             {
-                numbers.push(tokens[i]);
-                count++;
-            }
-            else if ((tokens[i] == "+" || tokens[i] == "*" || tokens[i] == "/" || tokens[i] == "-") && count > 1)
-            {
-                number1 = stoi(numbers.top());
-                numbers.pop();
-                number2 = stoi(numbers.top());
-                numbers.pop();
+                int b = st.top();
+                st.pop();
 
-                count -= 2;
+                int a = st.top();
+                st.pop();
 
-                if (tokens[i] == "+")
-                {
-                    result = number2 + number1;
-                    numbers.push(to_string(result));
-                    count++;
-                }
-                if (tokens[i] == "/")
-                {
-                    result = number2 / number1;
-                    numbers.push(to_string(result));
-                    count++;
-                }
-                if (tokens[i] == "-")
-                {
-                    result = number2 - number1;
-                    numbers.push(to_string(result));
-                    count++;
-                }
-                if (tokens[i] == "*")
-                {
-                    result = number2 * number1;
-                    numbers.push(to_string(result));
-                    count++;
-                }
-            }
-            else if (!operands.empty() && count > 1)
-            {
-                supop = operands.top();
-                operands.pop();
-
-                number1 = stoi(numbers.top());
-                numbers.pop();
-                number2 = stoi(numbers.top());
-                numbers.pop();
-
-                count -= 2;
-
-                if (supop == "+")
-                {
-                    result = number2 + number1;
-                    numbers.push(to_string(result));
-                    count++;
-                }
-                if (supop == "/")
-                {
-                    result = number2 / number1;
-                    numbers.push(to_string(result));
-                    count++;
-                }
-                if (supop == "-")
-                {
-                    result = number2 - number1;
-                    numbers.push(to_string(result));
-                    count++;
-                }
-                if (supop == "*")
-                {
-                    result = number2 * number1;
-                    numbers.push(to_string(result));
-                    count++;
-                }
+                if (token == "+")
+                    st.push(a + b);
+                else if (token == "-")
+                    st.push(a - b);
+                else if (token == "*")
+                    st.push(a * b);
+                else
+                    st.push(a / b);
             }
             else
             {
-                operands.push(tokens[i]);
+                st.push(stoi(token));
             }
         }
-        return result;
+
+        return st.top();
     }
 };
 
