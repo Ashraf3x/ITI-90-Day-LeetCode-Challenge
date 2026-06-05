@@ -60,6 +60,7 @@
 ### 📅 Day 6 ⚡ TODAY (**We Are Here!!**)
 👇 **This is today's challenge — let's go! 🚀**
 
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 10 | Daily Temperatures | 🟡 Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Video](https://www.youtube.com/watch?v=cTBiBSnjO3c) |
