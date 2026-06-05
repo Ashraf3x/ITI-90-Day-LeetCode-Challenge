@@ -50,15 +50,16 @@
 
 ---
 
-### 📅 Day 5 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 5
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 09 | Next Greater Element I | 🟢 Easy | [Link](https://leetcode.com/problems/next-greater-element-i/) | [Video](https://www.youtube.com/watch?v=sDAyOHGpCAs) |
 
 ---
 
-### 📅 Day 6
+### 📅 Day 6 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 10 | Daily Temperatures | 🟡 Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Video](https://www.youtube.com/watch?v=cTBiBSnjO3c) |
