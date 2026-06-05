@@ -106,19 +106,28 @@ def main():
 
     rank_medals = {1: "🥇", 2: "🥈", 3: "🥉"}
 
-    table_content = "\n| Rank | Participant | Problems Solved | Total Solutions |\n"
-    table_content += "| :---: | :---: | :---: | :---: |\n"
+   all_participants = set(solved.keys()) | set(file_counts.keys())
 
-    for rank, author in enumerate(sorted_users, 1):
-        rank_label = rank_medals.get(rank, f"`{rank}`")
-        problems = len(solved[author])
-        files = file_counts.get(author, 0)
-        # Show bonus indicator if they submitted more files than problems
-        files_display = f"{files} 🌐" if files > problems else str(files)
-        table_content += f"| {rank_label} | **{author}** | {problems} | {files_display} |\n"
+sorted_users = sorted(
+    all_participants,
+    key=lambda author: (len(solved.get(author, [])), file_counts.get(author, 0)),
+    reverse=True
+)
 
-    if not sorted_users:
-        table_content += "| - | No solutions merged yet | 0 | 0 |\n"
+table_content = "\n| Rank | Participant | Problems Solved | Total Solutions (Including Multi-language) |\n"
+table_content += "| :---: | :---: | :---: | :---: |\n"
+
+for rank, author in enumerate(sorted_users, 1):
+    rank_label = rank_medals.get(rank, f"`{rank}`")
+    problems = len(solved.get(author, []))
+    files = file_counts.get(author, 0)
+    
+    files_display = f"{files}" if files > problems else f"{files}"
+    
+    table_content += f"| {rank_label} | **{author}** | {problems} | {files_display} |\n"
+
+if not sorted_users:
+    table_content += "| - | No solutions merged yet | 0 | 0 |\n"
 
     # ── Write to README ────────────────────────────────────────────────────
     readme_path = "README.md"
