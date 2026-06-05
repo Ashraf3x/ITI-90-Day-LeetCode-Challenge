@@ -5,7 +5,7 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> nxt(10001, -1);
+        vector<int> nxt(10001 , -1);
         stack<int> st;
         for(auto it : nums2) {
             while(!st.empty() && st.top() < it) {
