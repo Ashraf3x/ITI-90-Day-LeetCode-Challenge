@@ -16,7 +16,9 @@
 ---
 
 ## 📝 Problems This Week
-### 📅 Day 1
+### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 01 | [Two Sum](./01-Two Sum/) | 🟢 Easy | [Link](https://leetcode.com/problems/two-sum/) | [Video](https://www.youtube.com/watch?v=KLlXCFG5TnA) |

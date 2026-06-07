@@ -66,8 +66,7 @@
 
 ---
 
-### 🏁 Day 7 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 🏁 Day 7
 
 | Task |
 |------|
