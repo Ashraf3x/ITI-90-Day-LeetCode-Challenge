@@ -16,8 +16,7 @@
 ---
 
 ## 📝 Problems This Week
-### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 1
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -26,7 +25,9 @@
 
 ---
 
-### 📅 Day 2
+### 📅 Day 2 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
