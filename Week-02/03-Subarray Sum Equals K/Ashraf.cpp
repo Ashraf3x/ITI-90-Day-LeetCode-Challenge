@@ -4,14 +4,14 @@
 // Space Complexity: O(n)
 class Solution {
 public
-    int subarraySum(vectorint& nums, int k) {
-        vectorint pre(nums.size());
-        unordered_mapint, int mp;
-        for (int i = 0; i  nums.size(); i++) {
-            pre[i] = !i  nums[i]  pre[i - 1] + nums[i];
+    int subarraySum(vector<int>& nums, int k) {
+        vector<int> pre(nums.size());
+        unordered_map<int, int> mp;
+        for (int i = 0; i < nums.size(); i++) {
+            pre[i] = !i ? nums[i] : pre[i - 1] + nums[i];
         }
         int ans = 0;
-        for (int i = 0; i  nums.size(); i++) {
+        for (int i = 0; i < nums.size(); i++) {
             ans += pre[i] == k;
             if (mp.count(pre[i] - k))
                 ans += mp[pre[i] - k];
