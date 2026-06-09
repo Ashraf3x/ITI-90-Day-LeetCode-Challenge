@@ -5,14 +5,14 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for (auto& it : nums)mp[it]++;
+        unordered_set<int> st;
+        for (auto it : nums)st.insert(it);
         int mx = 0;
-        for (auto& it : mp) {
-            if (!mp.count(it.first - 1)) {
-                int cur = it.first;
+        for (auto it :st) {
+            if (!st.count(it - 1)) {
+                int cur = it;
                 int len = 1;
-                while (mp.count(cur + 1))
+                while (st.count(cur + 1))
                     cur++, len++;
                 mx = max(mx, len);
             }
