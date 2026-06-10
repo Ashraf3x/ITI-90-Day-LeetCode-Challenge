@@ -35,8 +35,7 @@
 
 ---
 
-### 📅 Day 3 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 3
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -45,7 +44,9 @@
 
 ---
 
-### 📅 Day 4
+### 📅 Day 4 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 07 | Contains Duplicate II | 🟢 Easy | [Link](https://leetcode.com/problems/contains-duplicate-ii/) | [Video](https://www.youtube.com/watch?v=ypn0aZ0YuoM) |
