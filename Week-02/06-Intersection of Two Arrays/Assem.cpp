@@ -12,10 +12,10 @@ public:
     vector<int> intersection(vector<int> &nums1, vector<int> &nums2)
     {
         // nums1 = [4,9,5], nums2 = [9,4,9,8,4]
-        set<int> v = {};
+        unordered_set<int> v = {};
         if (nums1.size() < nums2.size())
         {
-            set<int> s(nums2.begin(), nums2.end());
+            unordered_set<int> s(nums2.begin(), nums2.end());
             for (int i = 0; i < nums1.size(); i++)
             {
                 if (s.count(nums1[i]))
@@ -26,7 +26,7 @@ public:
         }
         else
         {
-            set<int> s(nums1.begin(), nums1.end());
+            unordered_set<int> s(nums1.begin(), nums1.end());
             for (int i = 0; i < nums2.size(); i++)
             {
                 if (s.count(nums2[i]))
