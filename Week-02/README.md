@@ -44,8 +44,7 @@
 
 ---
 
-### 📅 Day 4 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 4
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -54,7 +53,9 @@
 
 ---
 
-### 📅 Day 5
+### 📅 Day 5 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 09 | [Word Pattern](./09-Word Pattern/) | 🟢 Easy | [Link](https://leetcode.com/problems/word-pattern/) | [Video](https://www.youtube.com/watch?v=W_izo3dV8H8) |
