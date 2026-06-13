@@ -49,7 +49,7 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 
 | 📅 Weeks Active | 🧩 Total Solutions | 👥 Active Contributors |
 | :---: | :---: | :---: |
-| 2 / 13 | 140 | 10 |
+| 2 / 13 | 141 | 10 |
 
 <!-- STATS_END -->
 
@@ -57,11 +57,11 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 
 | Rank | Participant | Problems Solved | Total Solutions (Including Multi-language) |
 | :---: | :---: | :---: | :---: |
-| 🥇 | **Mamdouh** | 20 | 23 |
-| 🥈 | **Ashraf** | 20 | 23 |
+| 🥇 | **Ashraf** | 20 | 23 |
+| 🥈 | **Mamdouh** | 20 | 23 |
 | 🥉 | **Shalaby** | 19 | 19 |
-| `4` | **Mohamedsaeed** | 18 | 18 |
-| `5` | **Assem** | 17 | 20 |
+| `4` | **Assem** | 18 | 21 |
+| `5` | **Mohamedsaeed** | 18 | 18 |
 | `6` | **Kareem** | 16 | 16 |
 | `7` | **Hend** | 10 | 10 |
 | `8` | **Eslam** | 4 | 4 |
