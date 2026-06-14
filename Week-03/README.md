@@ -16,7 +16,9 @@
 ---
 
 ## 📝 Problems This Week
-### 📅 Day 1
+### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 01 | [Reverse Linked List](./01-Reverse Linked List/) | 🟢 Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Video](https://www.youtube.com/watch?v=G0_I-ZF0S38) |
