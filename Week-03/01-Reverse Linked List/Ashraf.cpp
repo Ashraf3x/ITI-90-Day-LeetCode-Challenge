@@ -1,5 +1,5 @@
 // Author: Ashraf
-// Link: https://leetcode.com/problems/middle-of-the-linked-list/
+// Link: https://leetcode.com/problems/reverse-linked-list/
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 /**
