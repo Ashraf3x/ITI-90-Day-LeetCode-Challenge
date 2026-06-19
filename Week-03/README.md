@@ -52,8 +52,7 @@
 
 ---
 
-### 📅 Day 5 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 5
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -61,7 +60,9 @@
 
 ---
 
-### 📅 Day 6
+### 📅 Day 6 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 10 | Copy List with Random Pointer | 🟡 Medium | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Video](https://www.youtube.com/watch?v=5Y2EiZST7Yk) |
