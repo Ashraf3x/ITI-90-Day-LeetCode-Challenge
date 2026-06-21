@@ -18,7 +18,9 @@
 ## 📝 Problems This Week
 Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this suggested mix:
 
-### 📅 Day 1
+### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
 | 01 | Valid Parentheses | 🟢 Easy | [Link](https://leetcode.com/problems/valid-parentheses/) |
