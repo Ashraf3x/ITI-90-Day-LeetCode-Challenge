@@ -18,8 +18,7 @@
 ## 📝 Problems This Week
 Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this suggested mix:
 
-### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 1
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -28,7 +27,9 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 📅 Day 2
+### 📅 Day 2 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
 | 03 | Group Anagrams | 🟡 Medium | [Link](https://leetcode.com/problems/group-anagrams/) |
