@@ -27,8 +27,7 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 📅 Day 2 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 2
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -37,7 +36,9 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 📅 Day 3
+### 📅 Day 3 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
 | 05 | Reverse Linked List | 🟢 Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) |
