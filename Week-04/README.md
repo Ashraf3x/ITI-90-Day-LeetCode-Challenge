@@ -36,8 +36,7 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 📅 Day 3 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 3
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -46,7 +45,9 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 📅 Day 4
+### 📅 Day 4 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
 | 07 | Reorder List 🟡 Medium | [Link](https://leetcode.com/problems/reorder-list/) |
