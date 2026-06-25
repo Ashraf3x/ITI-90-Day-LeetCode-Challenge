@@ -45,8 +45,7 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 📅 Day 4 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 4
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -55,7 +54,9 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 📅 Day 5
+### 📅 Day 5 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
 | 09 | Min Stack | 🟡 Medium | [Link](https://leetcode.com/problems/min-stack/) |
