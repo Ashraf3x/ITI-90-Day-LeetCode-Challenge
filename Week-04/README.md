@@ -62,8 +62,7 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 📅 Day 6 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 6
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -71,7 +70,9 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 🏁 Day 7
+### 🏁 Day 7 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | Task |
 |------|
 | Practice Session |
