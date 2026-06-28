@@ -16,7 +16,9 @@
 ---
 
 ## 📝 Problems This Week
-### 📅 Day 1
+### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 01 | Longest Substring Without Repeating Characters | 🟡 Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Video](https://www.youtube.com/watch?v=wiGpQwVHdE0) |

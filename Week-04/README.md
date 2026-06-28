@@ -70,8 +70,7 @@ Pick **10 problems** from Weeks 01–03 you have not solved yet, or use this sug
 
 ---
 
-### 🏁 Day 7 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 🏁 Day 7
 
 | Task |
 |------|
