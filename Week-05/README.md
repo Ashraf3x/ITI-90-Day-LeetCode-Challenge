@@ -25,8 +25,7 @@
 
 ---
 
-### 📅 Day 2 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 2
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -35,7 +34,9 @@
 
 ---
 
-### 📅 Day 3
+### 📅 Day 3 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 05 | Trapping Rain Water | 🔴 Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Video](https://www.youtube.com/watch?v=ZI2z5pq0TqA) |
