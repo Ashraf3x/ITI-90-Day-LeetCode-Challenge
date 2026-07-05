@@ -16,7 +16,9 @@
 ---
 
 ## 📝 Problems This Week
-### 📅 Day 1
+### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 01 | [Jump Game](./01-Jump Game/) | 🟡 Medium | [Link](https://leetcode.com/problems/jump-game/) | [Video](https://www.youtube.com/watch?v=Yan0Cv2cLy8) |
