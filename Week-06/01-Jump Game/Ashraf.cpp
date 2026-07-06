@@ -1,3 +1,7 @@
+// Author: Ashraf
+// Link: https://leetcode.com/problems/jump-game/
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
