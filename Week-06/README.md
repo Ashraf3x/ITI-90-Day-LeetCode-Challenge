@@ -43,8 +43,7 @@
 
 ---
 
-### 📅 Day 4 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 4
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -53,7 +52,9 @@
 
 ---
 
-### 📅 Day 5
+### 📅 Day 5 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 09 | Boats to Save People | 🟡 Medium | [Link](https://leetcode.com/problems/boats-to-save-people/) | [Video](https://www.youtube.com/watch?v=XtJInj6YnAg) |
