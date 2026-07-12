@@ -16,7 +16,9 @@
 ---
 
 ## 📝 Problems This Week
-### 📅 Day 1
+### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 01 | [Subarray Sum Equals K](./01-Subarray Sum Equals K/) | 🟡 Medium | [Link](https://leetcode.com/problems/subarray-sum-equals-k/) | [Video](https://www.youtube.com/watch?v=fFVZt-6sgy8) |
