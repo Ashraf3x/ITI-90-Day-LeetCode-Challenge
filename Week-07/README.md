@@ -43,8 +43,7 @@
 
 ---
 
-### 📅 Day 4 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 4
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -53,7 +52,9 @@
 
 ---
 
-### 📅 Day 5
+### 📅 Day 5 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 09 | Count of Range Sum | 🔴 Hard | [Link](https://leetcode.com/problems/count-of-range-sum/) | [Video](https://www.youtube.com/watch?v=WnPLSRLsSA0) |
