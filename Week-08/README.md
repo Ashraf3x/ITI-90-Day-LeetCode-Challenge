@@ -16,7 +16,9 @@
 ---
 
 ## 📝 Problems This Week
-### 📅 Day 1
+### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 01 | [Koko Eating Bananas](./01-Koko Eating Bananas/) | 🟡 Medium | [Link](https://leetcode.com/problems/koko-eating-bananas/) | [Video](https://www.youtube.com/watch?v=U2SozAs9BzA) |
