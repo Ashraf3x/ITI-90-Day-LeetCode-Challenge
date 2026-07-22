@@ -34,8 +34,7 @@
 
 ---
 
-### 📅 Day 3 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 3
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -44,7 +43,9 @@
 
 ---
 
-### 📅 Day 4
+### 📅 Day 4 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 07 | Find Minimum in Rotated Sorted Array | 🟡 Medium | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Video](https://www.youtube.com/watch?v=nIVW4P8b1VA) |
