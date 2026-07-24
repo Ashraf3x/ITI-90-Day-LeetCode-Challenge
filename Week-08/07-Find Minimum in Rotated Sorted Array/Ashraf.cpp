@@ -1,0 +1,16 @@
+// Author: Ashraf
+// https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+// Time Complexity: O(n log n)
+// Space Complexity: O(1)
+class Solution {
+public:
+    int findMin(vector<int>& nums) {
+        int l=0, r=nums.size()-1;
+        while(l<r){
+            int m=l+(r-l)/2;
+            if(nums[m]>nums[r]) l=m+1;
+            else r=m;
+        }
+        return nums[l];
+    }
+};
