@@ -16,7 +16,9 @@
 ---
 
 ## 📝 Problems This Week
-### 📅 Day 1
+### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 01 | N-Queens | 🔴 Hard | [Link](https://leetcode.com/problems/n-queens/) | [Video](https://www.youtube.com/watch?v=Ph95IHmRp5M) |
