@@ -19,46 +19,46 @@
 ### 📅 Day 1
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
-| 01 | [N-Queens](./01-N-Queens/) | 🔴 Hard | [Link](https://leetcode.com/problems/n-queens/) | [Video](https://www.youtube.com/watch?v=Ph95IHmRp5M) |
-| 02 | [Word Search](./02-Word Search/) | 🟡 Medium | [Link](https://leetcode.com/problems/word-search/) | [Video](https://www.youtube.com/watch?v=pnmJYMe6c3Q) |
+| 01 | N-Queens | 🔴 Hard | [Link](https://leetcode.com/problems/n-queens/) | [Video](https://www.youtube.com/watch?v=Ph95IHmRp5M) |
+| 02 | Word Search | 🟡 Medium | [Link](https://leetcode.com/problems/word-search/) | [Video](https://www.youtube.com/watch?v=pnmJYMe6c3Q) |
 
 ---
 
 ### 📅 Day 2
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
-| 03 | [Combination Sum II](./03-Combination Sum II/) | 🟡 Medium | [Link](https://leetcode.com/problems/combination-sum-ii/) | [Video](https://www.youtube.com/watch?v=rSA3BmHUVac) |
-| 04 | [Palindrome Partitioning](./04-Palindrome Partitioning/) | 🟡 Medium | [Link](https://leetcode.com/problems/palindrome-partitioning/) | [Video](https://www.youtube.com/watch?v=3jvWodd7ht0) |
+| 03 | Combination Sum II | 🟡 Medium | [Link](https://leetcode.com/problems/combination-sum-ii/) | [Video](https://www.youtube.com/watch?v=rSA3BmHUVac) |
+| 04 | Palindrome Partitioning | 🟡 Medium | [Link](https://leetcode.com/problems/palindrome-partitioning/) | [Video](https://www.youtube.com/watch?v=3jvWodd7ht0) |
 
 ---
 
 ### 📅 Day 3
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
-| 05 | [Restore IP Addresses](./05-Restore IP Addresses/) | 🟡 Medium | [Link](https://leetcode.com/problems/restore-ip-addresses/) | [Video](https://www.youtube.com/watch?v=61tQ-l-rY70) |
-| 06 | [Word Break](./06-Word Break/) | 🟡 Medium | [Link](https://leetcode.com/problems/word-break/) | [Video](https://www.youtube.com/watch?v=Sx9NNgInc3A) |
+| 05 | Restore IP Addresses | 🟡 Medium | [Link](https://leetcode.com/problems/restore-ip-addresses/) | [Video](https://www.youtube.com/watch?v=61tQ-l-rY70) |
+| 06 | Word Break | 🟡 Medium | [Link](https://leetcode.com/problems/word-break/) | [Video](https://www.youtube.com/watch?v=Sx9NNgInc3A) |
 
 ---
 
 ### 📅 Day 4
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
-| 07 | [All Paths From Source to Target](./07-All Paths From Source to Target/) | 🟡 Medium | [Link](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Video](https://www.youtube.com/watch?v=8ByIieDU9HA) |
-| 08 | [Sudoku Solver](./08-Sudoku Solver/) | 🔴 Hard | [Link](https://leetcode.com/problems/sudoku-solver/) | [Video](https://www.youtube.com/watch?v=FWAIf_EVUKE) |
+| 07 | All Paths From Source to Target | 🟡 Medium | [Link](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Video](https://www.youtube.com/watch?v=8ByIieDU9HA) |
+| 08 | Sudoku Solver | 🔴 Hard | [Link](https://leetcode.com/problems/sudoku-solver/) | [Video](https://www.youtube.com/watch?v=FWAIf_EVUKE) |
 
 ---
 
 ### 📅 Day 5
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
-| 09 | [Permutations II](./09-Permutations II/) | 🟡 Medium | [Link](https://leetcode.com/problems/permutations-ii/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64) |
+| 09 | Permutations II | 🟡 Medium | [Link](https://leetcode.com/problems/permutations-ii/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64) |
 
 ---
 
 ### 📅 Day 6
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
-| 10 | [Combination Sum III](./10-Combination Sum III/) | 🟡 Medium | [Link](https://leetcode.com/problems/combination-sum-iii/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64) |
+| 10 | Combination Sum III | 🟡 Medium | [Link](https://leetcode.com/problems/combination-sum-iii/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64) |
 
 ---
 
