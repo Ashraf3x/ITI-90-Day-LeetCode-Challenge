@@ -16,7 +16,9 @@
 ---
 
 ## 📝 Problems This Week
-### 📅 Day 1
+### 📅 Day 1 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 01 | Single Number | 🟢 Easy | [Link](https://leetcode.com/problems/single-number/) | [Video](https://www.youtube.com/watch?v=qMPX1AOa83k) |
