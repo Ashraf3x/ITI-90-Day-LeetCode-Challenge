@@ -25,8 +25,7 @@
 
 ---
 
-### 📅 Day 2 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 2
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -35,7 +34,10 @@
 
 ---
 
-### 📅 Day 3
+### 📅 Day 3 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 05 | Validate Binary Search Tree | 🟡 Medium | [Link](https://leetcode.com/problems/validate-binary-search-tree/) | [Video](https://www.youtube.com/watch?v=s6ATEkipzow) |
