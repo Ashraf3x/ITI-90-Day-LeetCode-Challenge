@@ -62,8 +62,7 @@
 
 ---
 
-### 📅 Day 6 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 6
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
@@ -71,7 +70,9 @@
 
 ---
 
-### 🏁 Day 7
+### 🏁 Day 7 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | Task |
 |------|
 | Practice Session |
