@@ -53,8 +53,7 @@
 
 ---
 
-### 📅 Day 5 ⚡ TODAY (**We Are Here!!**)
-👇 **This is today's challenge — let's go! 🚀**
+### 📅 Day 5
 
 
 | # | Problem | Difficulty | LeetCode | NeetCode |
@@ -63,7 +62,9 @@
 
 ---
 
-### 📅 Day 6
+### 📅 Day 6 ⚡ TODAY (**We Are Here!!**)
+👇 **This is today's challenge — let's go! 🚀**
+
 | # | Problem | Difficulty | LeetCode | NeetCode |
 |---|---------|------------|----------|----------|
 | 10 | Serialize and Deserialize Binary Tree | 🔴 Hard | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Video](https://www.youtube.com/watch?v=-YbXySKJsX8) |
